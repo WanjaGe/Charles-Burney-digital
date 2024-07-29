@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Charles-Burney-digital
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Misiuk
+    given-names: Phoebe
+  - given-names: Davide
+    family-names: Miotto
+  - given-names: Gianna
+    family-names: Coletti
+  - given-names: Wanja
+    family-names: Gerber
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13120116
+abstract: >-
+  Digitale Aufbereitung, Anreicherung und Geovisualisierung
+  eines Reiseberichts des Musikhistorikers Charles Burney,
+  mithilfe von Transkribus, Spacy-NER und Nodegoat
